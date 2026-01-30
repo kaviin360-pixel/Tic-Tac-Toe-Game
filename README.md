@@ -11,7 +11,7 @@ https://chillgametictactoe.netlify.app
 
 ## 🧠 About the Game
 
-Tic-Tac-Toe is a simple yet fun game where two players take turns marking the spaces in a **3×3 grid** — one as **X** and the other as **O**. The first player to align three of their marks horizontally, vertically, or diagonally wins! If the grid fills up without a winner, the game ends in a draw. :contentReference[oaicite:0]{index=0}
+Tic-Tac-Toe is a simple yet fun game where two players take turns marking the spaces in a **3×3 grid** — one as **X** and the other as **O**. The first player to align three of their marks horizontally, vertically, or diagonally wins! If the grid fills up without a winner, the game ends in a draw.
 
 ---
 
